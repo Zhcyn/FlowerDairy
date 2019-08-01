@@ -6,3 +6,5 @@
 [Safe, simple, refined, powerful, and more liked]
 
 Time diary, help you quickly record the daily life.
+
+If you encounter any problems during use, please contact jsonkeny@gmail.com
